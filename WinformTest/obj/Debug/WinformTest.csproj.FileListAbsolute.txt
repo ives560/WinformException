@@ -1,0 +1,10 @@
+D:\软件项目\WinformException\WinformTest\obj\Debug\WinformTest.Properties.Resources.resources
+D:\软件项目\WinformException\WinformTest\obj\Debug\WinformTest.csproj.GenerateResource.Cache
+D:\软件项目\WinformException\WinformTest\bin\Debug\WinformTest.exe
+D:\软件项目\WinformException\WinformTest\bin\Debug\WinformTest.pdb
+D:\软件项目\WinformException\WinformTest\bin\Debug\WinformException.exe
+D:\软件项目\WinformException\WinformTest\bin\Debug\WinformException.pdb
+D:\软件项目\WinformException\WinformTest\obj\Debug\WinformTest.csprojResolveAssemblyReference.cache
+D:\软件项目\WinformException\WinformTest\obj\Debug\WinformTest.FrmMain.resources
+D:\软件项目\WinformException\WinformTest\obj\Debug\WinformTest.exe
+D:\软件项目\WinformException\WinformTest\obj\Debug\WinformTest.pdb

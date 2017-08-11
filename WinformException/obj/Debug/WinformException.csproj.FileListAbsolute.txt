@@ -1,0 +1,7 @@
+D:\软件项目\WinformException\WinformException\obj\Debug\WinformException.FrmBugReport.resources
+D:\软件项目\WinformException\WinformException\obj\Debug\WinformException.Properties.Resources.resources
+D:\软件项目\WinformException\WinformException\obj\Debug\WinformException.csproj.GenerateResource.Cache
+D:\软件项目\WinformException\WinformException\bin\Debug\WinformException.exe
+D:\软件项目\WinformException\WinformException\bin\Debug\WinformException.pdb
+D:\软件项目\WinformException\WinformException\obj\Debug\WinformException.exe
+D:\软件项目\WinformException\WinformException\obj\Debug\WinformException.pdb
